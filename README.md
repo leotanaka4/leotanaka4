@@ -20,9 +20,6 @@
  </div> 
  
 ##  🐍 Atividade
-![Snake animation](https://github.com/leotanaka4/leotanaka4/blob/output/github-contribution-grid-snake.svg)
-
-##
 
  <div align="center">
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardobfg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
