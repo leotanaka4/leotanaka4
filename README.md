@@ -2,7 +2,7 @@
 #### 🏖️ Rio de Janeiro - Brasil
 #### 🔞 19 anos
 #### 📜 Engenharia de Controle e Automação - UFRJ
-#### 💀 Desenvolvedor Front-End na Fluxo Consultoria
+#### 💀 Desenvolvedor Mobile na Fluxo Consultoria
 
 <div align="center">
     <a href = "mailto:leonardo.tanaka@poli.ufrj.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
