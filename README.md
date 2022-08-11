@@ -25,5 +25,5 @@
 
  <div>
    <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=leotanaka4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </br>
- <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=leotanaka4&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=leotanaka4&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+ </div>
