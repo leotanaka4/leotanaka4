@@ -4,7 +4,7 @@
 #### 📜 Engenharia de Controle e Automação - UFRJ
 #### 💀 Desenvolvedor Mobile na Fluxo Consultoria
 
-<div>
+<div align="center" >
     <a href = "mailto:leonardo.tanaka@poli.ufrj.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/leonardo-sdct/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -23,18 +23,7 @@
  
 ##  🐍 Atividade
 
- <div align="center">
+ <div>
    <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=leotanaka4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </br>
  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=leotanaka4&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
- 
-
-
-
-</div>
- <br> 
-
-  <br>
-  
-  
-  ##
