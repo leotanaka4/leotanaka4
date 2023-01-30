@@ -1,8 +1,7 @@
 # Leonardo Soares da Costa Tanaka 👋
 #### 🏖️ Rio de Janeiro - Brasil
-#### 🔞 19 anos
+#### 🔞 20 anos
 #### 📜 Engenharia de Controle e Automação - UFRJ
-#### 💀 Desenvolvedor Mobile na Fluxo Consultoria
 
 <div align="center" >
     <a href = "mailto:leonardo.tanaka@poli.ufrj.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
