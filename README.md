@@ -1,4 +1,4 @@
-# Leonardo Soares da Costa Tanaka - BI Intern @ Beep Saúde 👋
+# Leonardo Tanaka - BI Intern @ Beep Saúde 👋
 #### 🏖️ Rio de Janeiro - Brazil
 #### 🔞 20 anos
 #### 📜 Control and Automation Engineering - UFRJ
