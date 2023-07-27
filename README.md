@@ -32,4 +32,8 @@
  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leotanaka4&hide_border=true&&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
 
-![Snake animation](https://github.com/leotanaka4/leotanaka4/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
