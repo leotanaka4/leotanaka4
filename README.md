@@ -31,5 +31,3 @@
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leotanaka4&hide_border=true&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leotanaka4&hide_border=true&&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
-
-![snake animation](https://github.com/leotanaka4/leotanaka4/blob/output/github-contribution-grid-snake2.svg)
