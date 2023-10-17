@@ -1,6 +1,6 @@
 # Leonardo Tanaka - BI Intern @ Beep Saúde 👋
 #### 🏖️ Rio de Janeiro - Brazil
-#### 🔞 20 anos
+#### 🔞 21 anos
 #### 📜 Control and Automation Engineering - UFRJ
 
 <div align="center" >
