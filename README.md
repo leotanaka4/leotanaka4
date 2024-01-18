@@ -26,8 +26,7 @@
 </div> 
 
 ## 📈 Statistics
- <div align="center" >
-   <img  height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leotanaka4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leotanaka4&hide_border=true&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leotanaka4&hide_border=true&&layout=compact&langs_count=7&theme=tokyonight"/>
- </div>
+<div align="center" >
+  <img  height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leotanaka4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leotanaka4&hide_border=true&&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
