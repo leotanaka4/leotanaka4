@@ -1,6 +1,6 @@
-# Leonardo Tanaka - BI Intern @ Beep Saúde 👋
+# Leonardo Tanaka - Engineering Intern @ Embraer 👋
 #### 🏖️ Rio de Janeiro - Brazil
-#### 🔞 21 anos
+#### 🔞 22 anos
 #### 📜 Control and Automation Engineering - UFRJ
 
 <div align="center" >
